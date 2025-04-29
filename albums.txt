@@ -1,0 +1,160 @@
+{"title": "To Pimp a Butterfly", "artist": "Kendrick Lamar", "genre": "Hip-Hop", "decade": "2010's", "energy": 4, "mood": 3}
+{"title": "OK Computer", "artist": "Radiohead", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "Wish You Were Here", "artist": "Pink Floyd", "genre": "Rock", "decade": "1970's", "energy": 2, "mood": 2}
+{"title": "In Rainbows", "artist": "Radiohead", "genre": "Rock", "decade": "2000's", "energy": 3, "mood": 3}
+{"title": "Madvillainy", "artist": "Madvillain", "genre": "Hip-Hop", "decade": "2000's", "energy": 3, "mood": 3}
+{"title": "In the Court of the Crimson King", "artist": "King Crimson", "genre": "Rock", "decade": "1960's", "energy": 2, "mood": 3}
+{"title": "Kid A", "artist": "Radiohead", "genre": "Rock", "decade": "2000's", "energy": 2, "mood": 2}
+{"title": "good kid, m.A.A.d city", "artist": "Kendrick Lamar", "genre": "Hip-Hop", "decade": "2010's", "energy": 3, "mood": 4}
+{"title": "Loveless", "artist": "My Bloody Valentine", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 3}
+{"title": "The Dark Side of the Moon", "artist": "Pink Floyd", "genre": "Rock", "decade": "1970's", "energy": 2, "mood": 3}
+{"title": "Abbey Road", "artist": "The Beatles", "genre": "Rock", "decade": "1960's", "energy": 3, "mood": 4}
+{"title": "Remain in Light", "artist": "Talking Heads", "genre": "Rock", "decade": "1980's", "energy": 3, "mood": 4}
+{"title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars", "artist": "David Bowie", "genre": "Rock", "decade": "1970's", "energy": 3, "mood": 3}
+{"title": "The Black Saint and the Sinner Lady", "artist": "Mingus", "genre": "Jazz", "decade": "1970's", "energy": 4, "mood": 3}
+{"title": "Illmatic", "artist": "Nas", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 3}
+{"title": "The Velvet Underground & Nico", "artist": "The Velvet Underground & Nico", "genre": "Rock", "decade": "1960's", "energy": 3, "mood": 3}
+{"title": "A Love Supreme", "artist": "John Coltrane", "genre": "Jazz", "decade": "1960's", "energy": 3, "mood": 3}
+{"title": "Revolver", "artist": "The Beatles", "genre": "Rock", "decade": "1960's", "energy": 3, "mood": 3}
+{"title": "Lift Yr. Skinny Fists Like Antennas to Heaven!", "artist": "Godspeed You Black Emperor!", "genre": "Rock", "decade": "2000's", "energy": 2, "mood": 2}
+{"title": "Vespertine", "artist": "Bj\u00f6rk", "genre": "Pop", "decade": "2000's", "energy": 2, "mood": 3}
+{"title": "Paranoid", "artist": "Black Sabbath", "genre": "Metal", "decade": "1970's", "energy": 4, "mood": 2}
+{"title": "Disintegration", "artist": "The Cure", "genre": "Rock", "decade": "1980's", "energy": 3, "mood": 3}
+{"title": "Kind of Blue", "artist": "Miles Davis", "genre": "Jazz", "decade": "1950's", "energy": 2, "mood": 3}
+{"title": "Enter the Wu-Tang (36 Chambers)", "artist": "Wu-Tang Clan", "genre": "Hip-Hop", "decade": "1990's", "energy": 4, "mood": 2}
+{"title": "My Beautiful Dark Twisted Fantasy", "artist": "Kanye West", "genre": "Hip-Hop", "decade": "2010's", "energy": 4, "mood": 3}
+{"title": "Animals", "artist": "Pink Floyd", "genre": "Rock", "decade": "1970's", "energy": 2, "mood": 2}
+{"title": "Long Season", "artist": "Fishmans", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 4}
+{"title": "Red", "artist": "King Crimson", "genre": "Rock", "decade": "1970's", "energy": 3, "mood": 2}
+{"title": "Spiderland", "artist": "Slint", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "Pet Sounds", "artist": "The Beach Boys", "genre": "Pop", "decade": "1960's", "energy": 4, "mood": 2}
+{"title": "In the Aeroplane Over the Sea", "artist": "Neutral Milk Hotel", "genre": "Rock", "decade": "1990's", "energy": 4, "mood": 3}
+{"title": "Pink Moon", "artist": "Nick Drake", "genre": "Pop", "decade": "1970's", "energy": 2, "mood": 2}
+{"title": "Songs in the Key of Life", "artist": "Stevie Wonder", "genre": "Pop", "decade": "1970's", "energy": 3, "mood": 4}
+{"title": "Dummy", "artist": "Portishead", "genre": "Pop", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "The Money Store", "artist": "Death Grips", "genre": "Hip-Hop", "decade": "2010's", "energy": 5, "mood": 1}
+{"title": "The College Dropout", "artist": "Kanye West", "genre": "Hip-Hop", "decade": "2000's", "energy": 3, "mood": 3}
+{"title": "Souvlaki", "artist": "Slowdive", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "The Glow Pt. 2", "artist": "The Microphones", "genre": "Rock", "decade": "2000's", "energy": 2, "mood": 2}
+{"title": "The Queen Is Dead", "artist": "The Smiths", "genre": "Pop", "decade": "1980's", "energy": 3, "mood": 3}
+{"title": "Atrocity Exhibition", "artist": "Danny Brown", "genre": "Hip-Hop", "decade": "2010's", "energy": 4, "mood": 2}
+{"title": "In a Silent Way", "artist": "Miles Davis", "genre": "Jazz", "decade": "1960's", "energy": 2, "mood": 3}
+{"title": "Heaven or Las Vegas", "artist": "Cocteau Twins", "genre": "Pop", "decade": "1990's", "energy": 2, "mood": 4}
+{"title": "Igor", "artist": "Tyler, the Creator", "genre": "Pop", "decade": "2010's", "energy": 3, "mood": 3}
+{"title": "Unknown Pleasures", "artist": "Joy Division", "genre": "Rock", "decade": "1970's", "energy": 3, "mood": 2}
+{"title": "Sgt. Pepper's Lonely Hearts Club Band", "artist": "The Beatles", "genre": "Rock", "decade": "1960's", "energy": 3, "mood": 4}
+{"title": "Blonde", "artist": "Frank Ocean", "genre": "Pop", "decade": "2010's", "energy": 2, "mood": 3}
+{"title": "Hounds of Love", "artist": "Kate Bush", "genre": "Pop", "decade": "1980's", "energy": 3, "mood": 4}
+{"title": "Homogenic", "artist": "Bj\u00f6rk", "genre": "Pop", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "The Low End Theory", "artist": "A Tribe Called Quest", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 3}
+{"title": "F\u266fA\u266f\u221e", "artist": "Godspeed You Black Emperor!", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "The Beatles [White Album]", "artist": "The Beatles", "genre": "Rock", "decade": "1960's", "energy": 3, "mood": 4}
+{"title": "Either / Or", "artist": "Elliott Smith", "genre": "Pop", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "What's Going On", "artist": "Marvin Gaye", "genre": "Pop", "decade": "1970's", "energy": 3, "mood": 3}
+{"title": "MM..FOOD", "artist": "MF DOOM", "genre": "Hip-Hop", "decade": "2000's", "energy": 3, "mood": 3}
+{"title": "Low", "artist": "David Bowie", "genre": "Rock", "decade": "1970's", "energy": 2, "mood": 2}
+{"title": "Bitches Brew", "artist": "Miles Davis", "genre": "Jazz", "decade": "1970's", "energy": 2, "mood": 2}
+{"title": "Close to the Edge", "artist": "Yes", "genre": "Rock", "decade": "1970's", "energy": 3, "mood": 4}
+{"title": "\u2605 [Blackstar]", "artist": "David Bowie", "genre": "Rock", "decade": "2010's", "energy": 2, "mood": 2}
+{"title": "Endtroducing.....", "artist": "DJ Shadow", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 2}
+{"title": "Doolittle", "artist": "Pixies", "genre": "Rock", "decade": "1980's", "energy": 3, "mood": 3}
+{"title": "Marquee Moon", "artist": "Television", "genre": "Rock", "decade": "1970's", "energy": 3, "mood": 3}
+{"title": "Illinois", "artist": "Sufjan Stevens", "genre": "Pop", "decade": "2000's", "energy": 2, "mood": 4}
+{"title": "Highway 61 Revisited", "artist": "Bob Dylan", "genre": "Rock", "decade": "1960's", "energy": 2, "mood": 3}
+{"title": "Soundtracks for the Blind", "artist": "Swans", "genre": "Rock", "decade": "1990's", "energy": 3, "mood": 1}
+{"title": "Selected Ambient Works 85-92", "artist": "Aphex Twin", "genre": "Electronic", "decade": "1990's", "energy": 1, "mood": 3}
+{"title": "Deathconsciousness", "artist": "Have a Nice Life", "genre": "Rock", "decade": "2000's", "energy": 3, "mood": 1}
+{"title": "Donuts", "artist": "J Dilla", "genre": "Hip-Hop", "decade": "2000's", "energy": 3, "mood": 4}
+{"title": "Electric Ladyland", "artist": "The Jimi Hendrix Experience", "genre": "Rock", "decade": "1960's", "energy": 4, "mood": 3}
+{"title": "Discovery", "artist": "Daft Punk", "genre": "Electronic", "decade": "2000's", "energy": 4, "mood": 4}
+{"title": "Led Zeppelin [IV]", "artist": "Led Zeppelin", "genre": "Rock", "decade": "1970's", "energy": 3, "mood": 2}
+{"title": "Master of Reality", "artist": "Black Sabbath", "genre": "Metal", "decade": "1970's", "energy": 3, "mood": 2}
+{"title": "Laughing Stock", "artist": "Talk Talk", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "Station to Station", "artist": "David Bowie", "genre": "Rock", "decade": "1970's", "energy": 3, "mood": 2}
+{"title": "Nevermind", "artist": "Nirvana", "genre": "Rock", "decade": "1990's", "energy": 4, "mood": 2}
+{"title": "The Doors", "artist": "The Doors", "genre": "Rock", "decade": "1960's", "energy": 2, "mood": 2}
+{"title": "Blonde on Blonde", "artist": "Bob Dylan", "genre": "Rock", "decade": "1960's", "energy": 2, "mood": 3}
+{"title": "Karma", "artist": "Pharoah Sanders", "genre": "Jazz", "decade": "1960's", "energy": 4, "mood": 4}
+{"title": "In Utero", "artist": "Nirvana", "genre": "Rock", "decade": "1990's", "energy": 4, "mood": 2}
+{"title": "Blood on the Tracks", "artist": "Bob Dylan", "genre": "Pop", "decade": "1970's", "energy": 2, "mood": 2}
+{"title": "Closer", "artist": "Joy Division", "genre": "Rock", "decade": "1980's", "energy": 2, "mood": 2}
+{"title": "Aquemini", "artist": "OutKast", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 3}
+{"title": "Ride the Lightning", "artist": "Metallica", "genre": "Metal", "decade": "1980's", "energy": 4, "mood": 2}
+{"title": "Ants From Up There", "artist": "Black Country, New Road", "genre": "Rock", "decade": "2020's", "energy": 2, "mood": 2}
+{"title": "Late Registration", "artist": "Kanye West", "genre": "Hip-Hop", "decade": "2000's", "energy": 3, "mood": 4}
+{"title": "The Downward Spiral", "artist": "Nine Inch Nails", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 1}
+{"title": "Carrie & Lowell", "artist": "Sufjan Stevens", "genre": "Pop", "decade": "2010's", "energy": 2, "mood": 2}
+{"title": "Are You Experienced", "artist": "The Jimi Hendrix Experience", "genre": "Rock", "decade": "1960's", "energy": 4, "mood": 4}
+{"title": "Midnight Marauders", "artist": "A Tribe Called Quest", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 4}
+{"title": "Songs of Leonard Cohen", "artist": "Leonard Cohen", "genre": "Pop", "decade": "1960's", "energy": 2, "mood": 2}
+{"title": "Symbolic", "artist": "Death", "genre": "Metal", "decade": "1990's", "energy": 3, "mood": 1}
+{"title": "Velocity : Design : Comfort", "artist": "Sweet Trip", "genre": "Pop", "decade": "2000's", "energy": 3, "mood": 4}
+{"title": "Mezzanine", "artist": "Massive Attack", "genre": "Pop", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "Liquid Swords", "artist": "Genius/GZA", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 2}
+{"title": "Future Days", "artist": "Can", "genre": "Rock", "decade": "1970's", "energy": 2, "mood": 4}
+{"title": "Innervisions", "artist": "Stevie Wonder", "genre": "Pop", "decade": "1970's", "energy": 3, "mood": 4}
+{"title": "The Velvet Underground", "artist": "The Velvet Underground", "genre": "Rock", "decade": "1960's", "energy": 2, "mood": 2}
+{"title": "Clube da Esquina", "artist": "Milton Nascimento & L\u00f4 Borges", "genre": "Pop", "decade": "1970's", "energy": 3, "mood": 4}
+{"title": "Master of Puppets", "artist": "Metallica", "genre": "Metal", "decade": "1980's", "energy": 4, "mood": 2}
+{"title": "Grace", "artist": "Jeff Buckley", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "Black Sabbath", "artist": "Black Sabbath", "genre": "Metal", "decade": "1970's", "energy": 3, "mood": 2}
+{"title": "Hot Rats", "artist": "Frank Zappa", "genre": "Rock", "decade": "1960's", "energy": 3, "mood": 4}
+{"title": "\u00c1g\u00e6tis byrjun", "artist": "Sigur R\u00f3s", "genre": "Rock", "decade": "1990's", "energy": 2, "mood": 4}
+{"title": "The Lonesome Crowded West", "artist": "Modest Mouse", "genre": "Rock", "decade": "1990's", "energy": 3, "mood": 2}
+{"title": "Daydream Nation", "artist": "Sonic Youth", "genre": "Rock", "decade": "1980's", "energy": 4, "mood": 2}
+{"title": "Pornography", "artist": "The Cure", "genre": "Rock", "decade": "1980's", "energy": 2, "mood": 2}
+{"title": "Tago Mago", "artist": "Can", "genre": "Rock", "decade": "1970's", "energy": 2, "mood": 2}
+{"title": "To Be Kind", "artist": "Swans", "genre": "Rock", "decade": "2010's", "energy": 3, "mood": 1}
+{"title": "Rubber Soul", "artist": "The Beatles", "genre": "Rock", "decade": "1960's", "energy": 2, "mood": 3}
+{"title": "Spirit Of Eden", "artist": "Talk Talk", "genre": "Rock", "decade": "1980's", "energy": 2, "mood": 4}
+{"title": "Is This It", "artist": "The Strokes", "genre": "Rock", "decade": "2000's", "energy": 4, "mood": 2}
+{"title": "Pi\u00f1ata", "artist": "Freddie Gibbs & Madlib", "genre": "Hip-Hop", "decade": "2010's", "energy": 3, "mood": 3}
+{"title": "The Infamous", "artist": "Mobb Deep", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 2}
+{"title": "ATLiens", "artist": "OutKast", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 2}
+{"title": "Ready to Die", "artist": "The Notorious B.I.G.", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 3}
+{"title": "LP!", "artist": "JPEGMAFIA", "genre": "Hip-Hop", "decade": "2020's", "energy": 4, "mood": 2}
+{"title": "Flower Boy", "artist": "Tyler, the Creator", "genre": "Hip-Hop", "decade": "2010's", "energy": 3, "mood": 3}
+{"title": "We got it from Here\u2026 Thank You 4 Your service", "artist": "A Tribe Called Quest", "genre": "Hip-Hop", "decade": "2010's", "energy": 3, "mood": 2}
+{"title": "Jenny Death: The Powers That B Disc 2", "artist": "Death Grips", "genre": "Hip-Hop", "decade": "2010's", "energy": 4, "mood": 1}
+{"title": "The Miseducation of Lauryn Hill", "artist": "Lauryn Hill", "genre": "Hip-Hop", "decade": "1990's", "energy": 3, "mood": 3}
+{"title": "KIDS SEE GHOSTS", "artist": "KIDS SEE GHOSTS", "genre": "Hip-Hop", "decade": "2010's", "energy": 3, "mood": 4}
+{"title": "Giant Steps", "artist": "John Coltrane", "genre": "Jazz", "decade": "1960's", "energy": 4, "mood": 4}
+{"title": "My Favorite Things", "artist": "John Coltrane", "genre": "Jazz", "decade": "1960's", "energy": 2, "mood": 4}
+{"title": "Mingus Ah Um", "artist": "Charles Mingus", "genre": "Jazz", "decade": "1950's", "energy": 3, "mood": 3}
+{"title": "Journey in Satchidananda", "artist": "Alice Coltrane featuring Pharoah Sanders", "genre": "Jazz", "decade": "1970's", "energy": 2, "mood": 4}
+{"title": "Get Up With It", "artist": "Miles Davis", "genre": "Jazz", "decade": "1970's", "energy": 2, "mood": 2}
+{"title": "Art Blakey and The Jazz Messengers [Moanin']", "artist": "Art Blakey and The Jazz Messengers", "genre": "Jazz", "decade": "1950's", "energy": 4, "mood": 3}
+{"title": "Head Hunters", "artist": "Herbie Hancock", "genre": "Jazz", "decade": "1970's", "energy": 3, "mood": 4}
+{"title": "Let My Children Hear Music", "artist": "Charles Mingus", "genre": "Jazz", "decade": "1970's", "energy": 4, "mood": 3}
+{"title": "Blue Train", "artist": "John Coltrane", "genre": "Jazz", "decade": "1950's", "energy": 4, "mood": 3}
+{"title": "Blues & Roots", "artist": "Charlie Mingus", "genre": "Jazz", "decade": "1960's", "energy": 3, "mood": 4}
+{"title": "Since I Left You", "artist": "The Avalanches", "genre": "Electronic", "decade": "2000's", "energy": 3, "mood": 4}
+{"title": "Untrue", "artist": "Burial", "genre": "Electronic", "decade": "2000's", "energy": 2, "mood": 2}
+{"title": "Cosmogramma", "artist": "Flying Lotus", "genre": "Electronic", "decade": "2010's", "energy": 2, "mood": 3}
+{"title": "OIL OF EVERY PEARL'S UN-INSIDES", "artist": "SOPHIE", "genre": "Electronic", "decade": "2010's", "energy": 4, "mood": 2}
+{"title": "Random Access Memories", "artist": "Daft Punk", "genre": "Electronic", "decade": "2010's", "energy": 4, "mood": 4}
+{"title": "PRODUCT", "artist": "SOPHIE", "genre": "Electronic", "decade": "2010's", "energy": 4, "mood": 2}
+{"title": "Midtown 120 Blues", "artist": "DJ Sprinkles", "genre": "Electronic", "decade": "2000's", "energy": 3, "mood": 3}
+{"title": "2012 - 2017", "artist": "Against All Logic", "genre": "Electronic", "decade": "2010's", "energy": 2, "mood": 3}
+{"title": "Introspective", "artist": "Pet Shop Boys", "genre": "Electronic", "decade": "1980's", "energy": 3, "mood": 3}
+{"title": "The Fat of the Land", "artist": "Prodigy", "genre": "Electronic", "decade": "1990's", "energy": 4, "mood": 3}
+{"title": "Rust in Peace", "artist": "Megadeth", "genre": "Metal", "decade": "1990's", "energy": 4, "mood": 2}
+{"title": "Toxicity", "artist": "System of a Down", "genre": "Metal", "decade": "2000's", "energy": 4, "mood": 2}
+{"title": "Rage Against the Machine", "artist": "Rage Against the Machine", "genre": "Metal", "decade": "1990's", "energy": 4, "mood": 2}
+{"title": "Dopethrone", "artist": "Electric Wizard", "genre": "Metal", "decade": "2000's", "energy": 3, "mood": 1}
+{"title": "White Pony", "artist": "Deftones", "genre": "Metal", "decade": "2000's", "energy": 3, "mood": 3}
+{"title": "Boris at Last -Feedbacker-", "artist": "Boris", "genre": "Metal", "decade": "2000's", "energy": 2, "mood": 2}
+{"title": "Painkiller", "artist": "Judas Priest", "genre": "Metal", "decade": "1990's", "energy": 4, "mood": 3}
+{"title": "Dirt", "artist": "Alice in Chains", "genre": "Metal", "decade": "1990's", "energy": 2, "mood": 2}
+{"title": "Lateralus", "artist": "Tool", "genre": "Metal", "decade": "2000's", "energy": 3, "mood": 2}
+{"title": "Powerslave", "artist": "Iron Maiden", "genre": "Metal", "decade": "1980's", "energy": 3, "mood": 3}
+{"title": "Violator", "artist": "Depeche Mode", "genre": "Pop", "decade": "1990's", "energy": 3, "mood": 2}
+{"title": "A Moon Shaped Pool", "artist": "Radiohead", "genre": "Pop", "decade": "2010's", "energy": 2, "mood": 2}
+{"title": "The Dreaming", "artist": "Kate Bush", "genre": "Pop", "decade": "1980's", "energy": 3, "mood": 3}
+{"title": "Odessey and Oracle", "artist": "The Zombies", "genre": "Pop", "decade": "1960's", "energy": 2, "mood": 3}
+{"title": "Post", "artist": "Bj\u00f6rk", "genre": "Pop", "decade": "1990's", "energy": 3, "mood": 3}
+{"title": "Love Deluxe", "artist": "Sade", "genre": "Pop", "decade": "1990's", "energy": 2, "mood": 3}
+{"title": "You Will Never Know Why", "artist": "Sweet Trip", "genre": "Pop", "decade": "2000's", "energy": 3, "mood": 2}
+{"title": "When the Pawn", "artist": "Fiona Apple", "genre": "Pop", "decade": "1990's", "energy": 4, "mood": 2}
+{"title": "Titanic Rising", "artist": "Weyes Blood", "genre": "Pop", "decade": "2010's", "energy": 3, "mood": 4}
+{"title": "Thriller", "artist": "Michael Jackson", "genre": "Pop", "decade": "1980's", "energy": 3, "mood": 4}

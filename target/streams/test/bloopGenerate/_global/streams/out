@@ -1,0 +1,4 @@
+[debug] [musrec-test] Classpath dependencies List()
+[debug] [musrec-test] Dependencies from configurations List(musrec)
+[debug] Bloop wrote the configuration of project 'musrec-test' to '/workspaces/MusRec/.bloop/musrec-test.json'
+[success] Generated .bloop/musrec-test.json
