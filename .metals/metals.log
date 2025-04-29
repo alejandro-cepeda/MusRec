@@ -2372,3 +2372,17 @@ WARNING: empty definition using pc, found symbol in pc:  (full report at: /works
 2025.04.29 18:27:21 INFO  no build target found for /workspaces/MusRec/MusicRec.scala. Using presentation compiler with project's scala-library version: 3.3.5
 2025.04.29 18:27:21 INFO  Attempting to connect to the build server...
 2025.04.29 18:27:21 INFO  No running Bloop server found, starting one.
+2025.04.29 18:27:33 INFO  Starting compilation server
+2025.04.29 18:27:35 INFO  no build target found for /workspaces/MusRec/MusicRec.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.29 18:27:35 INFO  no build target found for /workspaces/MusRec/MusicRec.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.29 18:27:35 INFO  no build target found for /workspaces/MusRec/MusicRec.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.29 18:27:37 INFO  no build target found for /workspaces/MusRec/MusicRec.scala. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 29, 2025 6:27:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.04.29 18:27:37 INFO  no build target found for /workspaces/MusRec/MusicRec.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.29 18:27:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspaces/MusRec/.metals/bsp.trace.json or /home/codespace/.cache/metals/bsp.trace.json
+2025.04.29 18:27:40 INFO  Attempting to connect to the build server...
+2025.04.29 18:27:40 INFO  Found a Bloop server running
+2025.04.29 18:27:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspaces/MusRec/project/.metals/bsp.trace.json or /home/codespace/.cache/metals/bsp.trace.json
+2025.04.29 18:27:40 INFO  time: Connected to build server in 18s
+2025.04.29 18:27:40 INFO  Connected to Build server: Bloop v2.0.9
